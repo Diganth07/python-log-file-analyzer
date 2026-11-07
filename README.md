@@ -17,3 +17,9 @@ python log_analyzer.py app.log --top 10
 
 Lines without a recognized `CRITICAL`, `ERROR`, `WARNING`, `WARN`, `INFO`, or
 `DEBUG` level are counted as `OTHER`. No third-party packages are needed.
+
+## Project QR Code
+
+Scan to open this GitHub repository:
+
+![QR code linking to this repository](qr-code.png)
